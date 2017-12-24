@@ -1,0 +1,36 @@
+body{
+    background-color:#E6E6E6;
+    color:#698F3F;
+}
+.footer{
+    background-color: #2a2a2a;
+    color: #A8A8A8;
+    border:none;
+}
+h1{
+    font-size: 50px;
+    vertical-align: text-bottom;
+}
+/*login box*/
+#box{
+    border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    background: rgba(200, 200, 200, 0.1);
+    border-radius: 4px;
+    top:50px;
+}
+
+h2{
+    text-align:center;
+    color:#698F3F;
+}
+/*add user form*/
+.centered-form{
+	margin-top: 20px;
+        margin-bottom: 20px;
+}
+
+.centered-form .panel{
+	background: rgba(255, 255, 255, 0.8);
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}

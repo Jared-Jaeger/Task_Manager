@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Task_Manager">
+    <Realm className="org.apache.catalina.realm.JDBCRealm" 
+           connectionName="MS3300F17G004" connectionPassword="ms3300f17g004" 
+           connectionURL="jdbc:oracle:thin:@biz-delphi.cloudapp.net:1521:Delphi"
+           debug="99" driverName="oracle.jdbc.OracleDriver" 
+           userTable="SITEUSERS" userCredCol="Passwd" 
+userNameCol="Email" 
+           userRoleTable="USERROLES" roleNameCol="UROLES" />
+</Context>
